@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Where PBRU</string>
+
+    <string name="seartroom">หมายเลขห้อง</string>
+    <string name="title_activity_maps">Map</string>
+
 </resources>
